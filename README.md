@@ -5,9 +5,13 @@ Awesome Batch lets you customise your Batch files to a greater extent and simply
 
 [Source Code Batch](https://gist.github.com/Opticulex/219c224a51d4d71629d464424206c559)
 
+---
+
 ## Syntax, usage and commands
 
 (This is also included in the demo file)
+
+---
 
 ### Important
 
@@ -15,7 +19,10 @@ Make sure AwesomeBatch.exe and Config are in the same directory as this file and
 
 ALL NUMBERS MUST BE ESCAPED DIGIT BY DIGIT WITH THE '^' CARET SYMBOL AND EVERY SINGLE ARGUMENT MUST BE DEFINED EVEN IF IT IS NOT BEING USED!
 
+---
+
 ### Arguments
+
 `command - STRING`
 
 `subcommand - STRING`
@@ -27,6 +34,8 @@ ALL NUMBERS MUST BE ESCAPED DIGIT BY DIGIT WITH THE '^' CARET SYMBOL AND EVERY S
 `arg3 - MUST BE INTEGAR`
 
 `arg4 - MUST BE INTEGAR`
+
+---
 
 ### Commands
 
