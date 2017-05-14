@@ -17,10 +17,15 @@ ALL NUMBERS MUST BE ESCAPED DIGIT BY DIGIT WITH THE '^' CARET SYMBOL AND EVERY S
 
 ### Arguments
 `command - STRING
+
 subcommand - STRING
+
 arg1 - STRING
+
 arg2 - STRING
+
 arg3 - MUST BE INTEGAR
+
 arg4 - MUST BE INTEGAR`
 
 ### Commands
@@ -32,6 +37,7 @@ Sets the color for only the line to the specified color. uses the same HEX value
 Note: HEX-letters A-F are case sensetive and must be in capital letters.
 
 `arg1 - Background color
+
 arg2 - Foreground color`
 
 ---
@@ -49,5 +55,7 @@ Sets the title of the program normally like regular batch. Make sure arg2, 3 and
 Creates an animated titlebar. arg2 must be set to 'null'.
 
 `arg1 - Title text
+
 arg3 - Time in milliseconds to animate (100 reccomended)
+
 arg4 - Animation loops (3 reccomended)`
