@@ -19,6 +19,8 @@ Make sure AwesomeBatch.exe and Config are in the same directory as this file and
 
 ALL NUMBERS MUST BE ESCAPED DIGIT BY DIGIT WITH THE '^' CARET SYMBOL AND EVERY SINGLE ARGUMENT MUST BE DEFINED EVEN IF IT IS NOT BEING USED!
 
+Once you have set up your config file to the way you like it you can remove all the `echo >>` code and use it by *just* calling in the executable.
+
 ---
 
 ### Arguments
